@@ -18,10 +18,6 @@ I'm Saeed, an entrepreneur from Iran. I work with intelligent agents the way oth
 team: I evaluate them, compare them, and put them to work writing, building and shipping real software.
 I set the architecture and make the decisions — they do the typing.
 
-I write about what I learn. The first piece explains [what an LLM actually is](https://saeedeeas123.github.io/ExploreZone/posts/llm-intro.html) —
-seven stages from rule-based software to agents, with seven working interactive tools that show each
-stage rather than describing it. It also exists in Persian on [explorezone.ir](https://explorezone.ir/).
-
 ---
 
 ### The main project: Ideasmo
